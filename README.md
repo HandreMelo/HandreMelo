@@ -1,6 +1,6 @@
 <h1> Bem Vindo 👋 </h1>
 
-<h2> Estes são os projetos mais relevantes (por enquanto) que valem a pena conferir :</h2>
+<h2> Estes são os projetos mais relevantes (por enquanto) que valem a pena serem conferidos :</h2>
 <ul>
   <li> <a href="https://github.com/HandreMelo/django-crm-heroku">CRM com Django e deploy no Heroku</a></li>
   <li> <a href="https://github.com/HandreMelo/EngComputacao/tree/master/IA/Genetic_Algorithm">Genetic Algorith com Python - Caixeiro Viajante</a></li>
