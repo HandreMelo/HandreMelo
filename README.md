@@ -1,5 +1,15 @@
-<h1> Hi there 👋 </h1>
-<h2> To be continue ... </h2>
+<h1> Bem Vindo 👋 </h1>
+
+<h2> Estes são os projetos mais relevantes (por enquanto) que valem a pena conferir :</h2>
+<ul>
+  <li> <a href="https://github.com/HandreMelo/django-crm-heroku">CRM com Django e deploy no Heroku</a></li>
+  <li> <a href="https://github.com/HandreMelo/EngComputacao/tree/master/IA/Genetic_Algorithm">Genetic Algorith com Python - Caixeiro Viajante</a></li>
+  <li> <a href="https://handremelo.github.io/dinogame-dio-project/">Adaptação do T-Rex game - Projeto DIO</a></li>
+  <li> <a href="https://github.com/HandreMelo/responsive-webpage-sample1">Webpage exemplo com responsividade</a></li>
+  <li> <a href="https://github.com/HandreMelo/face_recognition_docker">API simples para reconhecimento facial com Docker</a></li>
+</ul>
+<h3>obs: Alguns projetos precisam de um README mais detalhado que logo serão acrescentados!</h3>
+<h2> To be continued ... </h2>
 <!--
 **HandreMelo/HandreMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
