@@ -6,6 +6,7 @@
   <li> <a href="https://github.com/HandreMelo/EngComputacao/tree/master/IA/Genetic_Algorithm">Genetic Algorith com Python - Caixeiro Viajante</a></li>
   <li> <a href="https://handremelo.github.io/dinogame-dio-project/">Adaptação do T-Rex game - Projeto DIO</a></li>
   <li> <a href="https://github.com/HandreMelo/responsive-webpage-sample1">Webpage exemplo com responsividade</a></li>
+  <li> <a href="https://github.com/HandreMelo/basic-crud-app-dotnet">CRUD básico de Séries em .NET - e um pouco de Design Pattern :)</a></li>
   <li> <a href="https://github.com/HandreMelo/face_recognition_docker">API simples para reconhecimento facial com Docker</a></li>
   <li> <a href="https://github.com/HandreMelo/recriando-pagina-instagram">Recriando a página de login do Instagram</a></li>
 </ul>
