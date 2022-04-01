@@ -9,6 +9,7 @@
   <li> <a href="https://github.com/HandreMelo/basic-crud-app-dotnet">CRUD básico de Séries em .NET - e um pouco de Design Pattern :)</a></li>
   <li> <a href="https://github.com/HandreMelo/face_recognition_docker">API simples para reconhecimento facial com Docker</a></li>
   <li> <a href="https://github.com/HandreMelo/recriando-pagina-instagram">Recriando a página de login do Instagram</a></li>
+  <li> <a href="https://github.com/HandreMelo/animais-fantasticos-origamid">Página criada como parte de um curso de ECMA6</a></li>
 </ul>
 <h3>obs: Alguns projetos precisam de um README mais detalhado que logo serão acrescentados!</h3>
 <h2> To be continued ... </h2>
